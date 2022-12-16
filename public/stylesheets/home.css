@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://res.cloudinary.com/drcrzcngp/image/upload/v1670919120/YelpCamp/stn5vcw3cjagpif8qgqv.jpg");
+    /* background-position: center; */
+}
+  
+  #center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+  }
